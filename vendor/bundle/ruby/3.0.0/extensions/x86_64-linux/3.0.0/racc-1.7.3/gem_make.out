@@ -1,0 +1,15 @@
+current directory: /home/vamsi/vamsiviz/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+/home/vamsi/.rbenv/versions/3.0.2/bin/ruby -I /home/vamsi/.rbenv/versions/3.0.2/lib/ruby/3.0.0 -r ./siteconf20240212-20253-lmcgoe.rb extconf.rb
+creating Makefile
+
+current directory: /home/vamsi/vamsiviz/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/vamsi/vamsiviz/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/vamsi/vamsiviz/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240212-20253-y5mng2/racc

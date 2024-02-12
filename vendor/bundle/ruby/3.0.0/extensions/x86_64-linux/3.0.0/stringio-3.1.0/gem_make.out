@@ -1,0 +1,15 @@
+current directory: /home/vamsi/vamsiviz/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+/home/vamsi/.rbenv/versions/3.0.2/bin/ruby -I /home/vamsi/.rbenv/versions/3.0.2/lib/ruby/3.0.0 -r ./siteconf20240212-20253-s16rjj.rb extconf.rb
+creating Makefile
+
+current directory: /home/vamsi/vamsiviz/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= clean
+
+current directory: /home/vamsi/vamsiviz/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\=
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/vamsi/vamsiviz/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20240212-20253-9njwv5
